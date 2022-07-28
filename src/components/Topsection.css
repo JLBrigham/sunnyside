@@ -1,0 +1,9 @@
+.top-section-container {
+  background-image: url("/Users/joannabrigham/Projects/after-makers/sunnyside/public/image-header.jpg");
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  left: 0px;
+  top: 0px;
+  background-size: cover;
+}

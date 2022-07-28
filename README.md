@@ -45,6 +45,24 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
+I have chosen this challenge as I am keen to show that I can build a contemporary looking sight following a design template. Also responsive web design is not something I know much about so I hope it will be a good opportunity to learn this.
+
+#### Start of project planning
+
+I have decided to use React to build the project. I made this decision as looking at the design file I can see that the features of it are quite repetitive so I thought this would work well with React's component based structure as I will be able to build components that can be reused.
+
+I will build out the HTML of the project before adding any CSS or Javascript. Also as I am going to focus on the web layout before the mobile layout. I'm unsure if this is good practice but as I am new responsive design it seemed like the best option for me.
+
+Plan of elements I will need:
+
+Top Section-
+-div to contain all elements- use backgound image provided
+-div for header container, p to be used for different links
+-h1 for 'we are creatives title'
+-svg for arrow
+
+First problem I ran into was using an image as a background, for some reason the full image wasn't showing, even though I'd styled the div to fit the whole page. I suspected this was something to do with the size of the image and the dimensions of the div. I fixed this by using background-size: cover.
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -62,29 +80,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 Something I did in this projecy which I haven't done before was to deploy the project at the start of the project. This isn't something I had thought of doing before but makes sense to do so so that others can view my project more easily and the progress that I'm making. I chose to deploy it using Netlify as I have used it before and found it very easy to work with, more so than Github pages.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+This is my first time using a Figma design file, I wanted to make use of this to make my project as accurate as possible. I have had to spend a bit of time at the start of the project just palying around with it and am hoping I will unserstand more how it works as I use it to work through the project.
 
 ### Continued development
 
