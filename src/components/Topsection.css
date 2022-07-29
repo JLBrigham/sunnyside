@@ -1,3 +1,5 @@
+@import url("https://fonts.google.com/specimen/Fraunces");
+
 .top-section-container {
   background-image: url(/Users/joannabrigham/Projects/after-makers/sunnyside/src/images/imageheader.jpg);
   position: absolute;
@@ -15,4 +17,23 @@
   height: 56px;
   left: 40px;
   top: 34px;
+}
+
+.slogan {
+  position: absolute;
+  width: 750px;
+  height: 69px;
+  left: 344.5px;
+  top: 195px;
+  font-family: "Fraunces 9pt Soft";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 56px;
+  line-height: 69px;
+
+  text-align: center;
+  letter-spacing: 8.75px;
+  text-transform: uppercase;
+
+  color: #ffffff;
 }
