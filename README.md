@@ -63,6 +63,8 @@ Top Section-
 
 First problem I ran into was using an image as a background, for some reason the full image wasn't showing, even though I'd styled the div to fit the whole page. I suspected this was something to do with the size of the image and the dimensions of the div. I fixed this by using background-size: cover.
 
+Second problem I have run into is that the delpoyed site is failing to build, I think this is due to the image pathway used for the background image in the top section. I think this may be something to do with React. This is something I will look into later as the locally hosted site is fine so I can continue to work on it.
+
 ### Built with
 
 - Semantic HTML5 markup

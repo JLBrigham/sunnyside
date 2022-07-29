@@ -1,9 +1,18 @@
 .top-section-container {
-  background-image: url("/Users/joannabrigham/Projects/after-makers/sunnyside/public/image-header.jpg");
+  background-image: url(/Users/joannabrigham/Projects/after-makers/sunnyside/src/images/imageheader.jpg);
   position: absolute;
   width: 1440px;
   height: 800px;
   left: 0px;
   top: 0px;
   background-size: cover;
+}
+
+.header-container {
+  background-color: pink;
+  position: absolute;
+  width: 1352px;
+  height: 56px;
+  left: 40px;
+  top: 34px;
 }
